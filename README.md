@@ -1,2 +1,2 @@
 # computerfrontend
-This is ReactJs frontend demo of computer inventory management system
+This is a ReactJs frontend demo of the computer inventory management system
